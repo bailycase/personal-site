@@ -5,8 +5,8 @@ module.exports = {
       name: `Baily Case`,
       summary: ``,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `My little part of the internet.`,
+    siteUrl: `https://uncased.dev/`,
     social: {
       twitter: `netflixoriginl`,
     },
